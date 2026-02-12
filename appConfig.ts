@@ -5,6 +5,7 @@ export const APP_CONFIG = {
     name: "Concung",
     subName: "Mẹ & Bé",
     logoText: "C",
+    logoUrl: "https://scontent.fmct5-1.fna.fbcdn.net/v/t39.30808-6/373330222_690063819812553_3448867805573862113_n.png?stp=dst-jpg_tt6&_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=g9E0fDYNDMUQ7kNvwGolPkA&_nc_oc=AdnSlvtj5SfAaSKLIz3trfsZ29bOavbPU4UQKXXO8cDdJn5jON35xMi1CFfQQI_N6Uzd0kbjHJSyVv8IIilijwDJ&_nc_zt=23&_nc_ht=scontent.fmct5-1.fna&_nc_gid=wjH854YFbNQQbyknhtxHbA&oh=00_Afv6dXl_YfylT1w_wJhvkcHyj6Sgx89einwfEBur9NvsVg&oe=69935D3D",
     primaryColor: "#ff4d94", // Màu hồng Concung
     secondaryColor: "#d61a65", // Hồng đậm cho hiệu ứng
   },
@@ -24,37 +25,37 @@ export const APP_CONFIG = {
     { 
       id: 1, 
       name: "Xe SH 150i", 
-      percentage: 0.1, 
+      percentage: 2, 
       imageUrl: "https://muaxemay.vn/wp-content/uploads/2016/12/1_White-3.png" 
     },
     { 
       id: 2, 
       name: "iPhone 17 Pro Max", 
-      percentage: 31, 
+      percentage: 30, 
       imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwqsMiTgV_vcL2htjwtTT-8MkxMDl-5RV1LA&s" 
     },
     { 
       id: 3, 
       name: "TV LG 65 inch", 
-      percentage: 6, 
+      percentage: 4, 
       imageUrl: "https://cdn.mediamart.vn/images/product/smart-tivi-lg-4k-65-inch-65uq7550psf-thinq-ai_ae9d5ffb.jpg" 
     },
     { 
       id: 4, 
       name: "1 chỉ vàng 9999", 
-      percentage: 31, 
+      percentage: 30, 
       imageUrl: "https://sjc.com.vn/Data/Sites/1/Product/10759/1-chi_1474808161.jpg" 
     },
     { 
       id: 5, 
       name: "10.000.000 VNĐ", 
-      percentage: 31, 
+      percentage: 30, 
       imageUrl: "https://png.pngtree.com/png-clipart/20250714/original/pngtree-falling-gold-coins-dollar-symbol-clipart-for-transparent-background-and-wealth-png-image_21272251.png" 
     },
     { 
       id: 6, 
       name: "5.000.000 VNĐ", 
-      percentage: 0.9, 
+      percentage: 4, 
       imageUrl: "https://png.pngtree.com/png-clipart/20250714/original/pngtree-falling-gold-coins-dollar-symbol-clipart-for-transparent-background-and-wealth-png-image_21272251.png" 
     }
   ],
@@ -63,7 +64,7 @@ export const APP_CONFIG = {
   modal: {
     congratsText: "🎉 CHÚC MỪNG BẠN 🎉",
     prizeLabel: "Bạn đã may mắn trúng giải:",
-    instructionText: "Để nhận được phần quà giá trị này, vui lòng HOÀN THÀNH KHẢO SÁT VIP theo hướng dẫn của LÊ MINH TUẤN.",
+    instructionText: "Để nhận được phần quà giá trị này, vui lòng HOÀN THÀNH KHẢO SÁT VIP theo hướng dẫn của hệ thống.",
     surveyButtonText: "HOÀN THÀNH KHẢO SÁT VIP",
     confirmMessage: "Vui lòng chụp ảnh màn hình và gửi vô nhóm khảo sát vip để xác nhận phần quà !",
     closeButtonText: "Đóng thông báo",

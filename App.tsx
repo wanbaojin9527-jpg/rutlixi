@@ -96,9 +96,11 @@ const App: React.FC = () => {
       <header className="bg-white border-b border-pink-100 py-4 px-4 shadow-sm sticky top-0 z-40">
         <div className="max-w-6xl mx-auto flex justify-between items-center">
           <div className="flex items-center gap-2">
-            <div className="w-8 h-8 rounded-lg flex items-center justify-center text-white font-bold text-lg" style={{ backgroundColor: APP_CONFIG.brand.primaryColor }}>
-              {APP_CONFIG.brand.logoText}
-            </div>
+            <img 
+              src={(APP_CONFIG.brand as any).logoUrl} 
+              alt={APP_CONFIG.brand.name} 
+              className="h-10 w-auto object-contain rounded-lg"
+            />
             <span className="text-xl font-bold tracking-tight hidden sm:inline" style={{ color: APP_CONFIG.brand.primaryColor }}>
               {APP_CONFIG.brand.name} <span className="font-light text-gray-400">{APP_CONFIG.brand.subName}</span>
             </span>
