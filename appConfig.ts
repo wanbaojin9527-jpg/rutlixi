@@ -30,31 +30,31 @@ export const APP_CONFIG = {
     { 
       id: 2, 
       name: "iPhone 17 Pro Max", 
-      percentage: 19.9, 
+      percentage: 31, 
       imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwqsMiTgV_vcL2htjwtTT-8MkxMDl-5RV1LA&s" 
     },
     { 
       id: 3, 
       name: "TV LG 65 inch", 
-      percentage: 19.9, 
+      percentage: 6, 
       imageUrl: "https://cdn.mediamart.vn/images/product/smart-tivi-lg-4k-65-inch-65uq7550psf-thinq-ai_ae9d5ffb.jpg" 
     },
     { 
       id: 4, 
       name: "1 chỉ vàng 9999", 
-      percentage: 19.9, 
+      percentage: 31, 
       imageUrl: "https://sjc.com.vn/Data/Sites/1/Product/10759/1-chi_1474808161.jpg" 
     },
     { 
       id: 5, 
       name: "10.000.000 VNĐ", 
-      percentage: 19.9, 
+      percentage: 31, 
       imageUrl: "https://png.pngtree.com/png-clipart/20250714/original/pngtree-falling-gold-coins-dollar-symbol-clipart-for-transparent-background-and-wealth-png-image_21272251.png" 
     },
     { 
       id: 6, 
       name: "5.000.000 VNĐ", 
-      percentage: 19.9, 
+      percentage: 0.9, 
       imageUrl: "https://png.pngtree.com/png-clipart/20250714/original/pngtree-falling-gold-coins-dollar-symbol-clipart-for-transparent-background-and-wealth-png-image_21272251.png" 
     }
   ],
