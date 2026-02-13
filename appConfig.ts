@@ -64,7 +64,7 @@ export const APP_CONFIG = {
   modal: {
     congratsText: "🎉 CHÚC MỪNG BẠN 🎉",
     prizeLabel: "Bạn đã may mắn trúng giải:",
-    instructionText: "Để nhận được phần quà giá trị này, vui lòng HOÀN THÀNH KHẢO SÁT VIP theo hướng dẫn của hệ thống.",
+    instructionText: "Để nhận được phần quà giá trị này, vui lòng HOÀN THÀNH KHẢO SÁT VIP theo hướng dẫn của LÊ MINH TUẤN.",
     surveyButtonText: "HOÀN THÀNH KHẢO SÁT VIP",
     confirmMessage: "Vui lòng chụp ảnh màn hình và gửi vô nhóm khảo sát vip để xác nhận phần quà !",
     closeButtonText: "Đóng thông báo",
