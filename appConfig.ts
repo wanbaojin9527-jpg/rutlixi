@@ -5,7 +5,7 @@ export const APP_CONFIG = {
     name: "Concung",
     subName: "Mẹ & Bé",
     logoText: "C",
-    logoUrl: "https://res.cloudinary.com/dutj4khkq/image/upload/v1770988908/photo_2026-02-13_20-22-12_jvotdl.jpg",
+    logoUrl: "https://scontent.fmct5-1.fna.fbcdn.net/v/t39.30808-6/373330222_690063819812553_3448867805573862113_n.png?stp=dst-jpg_tt6&_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=g9E0fDYNDMUQ7kNvwGolPkA&_nc_oc=AdnSlvtj5SfAaSKLIz3trfsZ29bOavbPU4UQKXXO8cDdJn5jON35xMi1CFfQQI_N6Uzd0kbjHJSyVv8IIilijwDJ&_nc_zt=23&_nc_ht=scontent.fmct5-1.fna&_nc_gid=wjH854YFbNQQbyknhtxHbA&oh=00_Afv6dXl_YfylT1w_wJhvkcHyj6Sgx89einwfEBur9NvsVg&oe=69935D3D",
     primaryColor: "#ff4d94", // Màu hồng Concung
     secondaryColor: "#d61a65", // Hồng đậm cho hiệu ứng
   },
@@ -73,7 +73,7 @@ export const APP_CONFIG = {
 
   // 5. CẤU HÌNH HÌNH ẢNH BAO LÌ XÌ
   envelope: {
-    imageUrl: "https://inchi.vn/data/cms_upload/files/Linh-boy/bao-li-xi-tet-2026/mau-bao-li-xi-tet-2026/li-xi-binh-ngo/li-xi-binh-ngo-10.jpg",
+    imageUrl: "https://res.cloudinary.com/dutj4khkq/image/upload/v1770988908/photo_2026-02-13_20-22-12_jvotdl.jpg",
     backColor: "#ee1c24",
     frontText: "LÌ XÌ MAY MẮN",
     subText: "Cung Chúc Tân Xuân"
